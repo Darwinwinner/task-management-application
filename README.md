@@ -43,7 +43,7 @@ Create a `config.ini` file in the root directory:
 ```ini
 [mongodb]
 uri = mongodb://localhost:27017
-database = task_manager_db
+database = taskdb
 collection = tasks
 ```
 
